@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omihiazi.github.io/QwM/sitemap_index.txt
+Sitemap: https://omihiazi.github.io/Sut/sitemap_index.txt
+Sitemap: https://omihiazi.github.io/TVv/sitemap_index.txt
+Sitemap: https://omihiazi.github.io/sNd/sitemap_index.txt
